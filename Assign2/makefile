@@ -8,7 +8,7 @@ CFLAGS = -std=c++11
 TARGET = hello_cuda
 
 # Source Files
-SOURCES = exercise1.cu
+SOURCES = exercise2.cu
 
 all: $(TARGET)
 
