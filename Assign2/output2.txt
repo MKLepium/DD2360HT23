@@ -1,0 +1,90 @@
+Running test with size: 1024 1024 1024
+Matrix dimension: 1024 x 1024, 1024 x 1024, 1024 x 1024
+Computation made on CPU: 4.503231 s
+Copy memory to GPU: 0.001090 s
+GPU Kernel: 0.001871 s
+Copy memory to CPU: 0.001498 s
+The results are correct.
+Test completed.
+
+Running test with size: 2048 1024 1024
+Matrix dimension: 2048 x 1024, 1024 x 1024, 2048 x 1024
+Computation made on CPU: 8.971810 s
+Copy memory to GPU: 0.002145 s
+GPU Kernel: 0.004073 s
+Copy memory to CPU: 0.002825 s
+The results are correct.
+Test completed.
+
+Running test with size: 1024 2048 1024
+Matrix dimension: 1024 x 2048, 2048 x 1024, 1024 x 1024
+Computation made on CPU: 10.721591 s
+Copy memory to GPU: 0.002256 s
+GPU Kernel: 0.003490 s
+Copy memory to CPU: 0.001393 s
+The results are correct.
+Test completed.
+
+Running test with size: 2048 2048 1024
+Matrix dimension: 2048 x 2048, 2048 x 1024, 2048 x 1024
+Computation made on CPU: 17.108295 s
+Copy memory to GPU: 0.004007 s
+GPU Kernel: 0.006619 s
+Copy memory to CPU: 0.002684 s
+The results are correct.
+Test completed.
+
+Running test with size: 2048 2048 2048
+Matrix dimension: 2048 x 2048, 2048 x 2048, 2048 x 2048
+Computation made on CPU: 43.105496 s
+Copy memory to GPU: 0.004555 s
+GPU Kernel: 0.012946 s
+Copy memory to CPU: 0.004679 s
+The results are correct.
+Test completed.
+
+Running test with size: 3072 2048 2048
+Matrix dimension: 3072 x 2048, 2048 x 2048, 3072 x 2048
+Computation made on CPU: 64.326178 s
+Copy memory to GPU: 0.007034 s
+GPU Kernel: 0.019279 s
+Copy memory to CPU: 0.007470 s
+The results are correct.
+Test completed.
+
+Running test with size: 3072 3072 2048
+Matrix dimension: 3072 x 3072, 3072 x 2048, 3072 x 2048
+Computation made on CPU: 114.004010 s
+Copy memory to GPU: 0.008716 s
+GPU Kernel: 0.030173 s
+Copy memory to CPU: 0.006739 s
+The results are correct.
+Test completed.
+
+Running test with size: 3072 3072 3072
+Matrix dimension: 3072 x 3072, 3072 x 3072, 3072 x 3072
+Computation made on CPU: 148.475776 s
+Copy memory to GPU: 0.011867 s
+GPU Kernel: 0.047915 s
+Copy memory to CPU: 0.010118 s
+The results are correct.
+Test completed.
+
+Running test with size: 4096 3072 3072
+Matrix dimension: 4096 x 3072, 3072 x 3072, 4096 x 3072
+Computation made on CPU: 194.402994 s
+Copy memory to GPU: 0.013120 s
+GPU Kernel: 0.063727 s
+Copy memory to CPU: 0.013229 s
+The results are correct.
+Test completed.
+
+Running test with size: 4096 4096 3072
+Matrix dimension: 4096 x 4096, 4096 x 3072, 4096 x 3072
+Computation made on CPU: 491.909284 s
+Copy memory to GPU: 0.017580 s
+GPU Kernel: 0.087135 s
+Copy memory to CPU: 0.013455 s
+The results are correct.
+Test completed.
+
